@@ -1,0 +1,6 @@
+name: AutoCleaner
+main: gg.pigraid.AutoCleaner.AutoCleaner
+version: 1.0.0
+api: ["1.0.0"]
+author: PigRaid
+description: Periodically cleans up entities to improve server performance
